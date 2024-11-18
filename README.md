@@ -1,4 +1,4 @@
-Customer Support Chatbot 🚀
+<h1>Customer Support Chatbot 🚀<h1/>
 
 
 An advanced AI-powered chatbot designed to handle customer queries efficiently, built using state-of-the-art machine learning models for intent recognition, named entity recognition, and dynamic dialogue generation.
@@ -95,8 +95,6 @@ Limited Responses: The chatbot may echo user input if the query falls outside th
 Chatbot Interface
 ![Chatbot interface](https://github.com/user-attachments/assets/499a4bbb-7eac-4892-864f-efce1f383289)
 
-Postman API test
-![Postman_chatbot_api_test](https://github.com/user-attachments/assets/4f9252a2-ce19-4cc0-bbdb-9271141e84af)
 
 
 
