@@ -1,6 +1,6 @@
 <h1>Customer Support Chatbot 🚀</h1>
 
-<p>An advanced AI-powered chatbot designed to handle customer queries efficiently, built using state-of-the-art machine learning models for intent recognition, named entity recognition, and dynamic dialogue generation.</p>
+<p>An AI-powered chatbot designed to handle customer queries efficiently, built using state-of-the-art machine learning models for intent recognition, named entity recognition, and dynamic dialogue generation.</p>
 
 <h2>Table of Contents</h2>
 <ul>
