@@ -1,5 +1,8 @@
 Customer Support Chatbot 🚀
+
+
 An advanced AI-powered chatbot designed to handle customer queries efficiently, built using state-of-the-art machine learning models for intent recognition, named entity recognition, and dynamic dialogue generation.
+
 
 Table of Contents
 Overview
@@ -13,16 +16,21 @@ Limitations
 Future Enhancements
 Contributing
 License
+
+
 Overview
 The Customer Support Chatbot leverages advanced AI techniques to understand user queries, extract key entities, and generate meaningful responses. This chatbot aims to enhance user experience by automating common customer service tasks such as checking order status, handling cancellations, and providing product information.
 
 Note: Due to GitHub’s file size limitations, the trained model files are not included in the repository. However, you can generate the models locally by running the provided training scripts.
+
 
 Features
 Intent Recognition: Accurately classifies user intents using a fine-tuned BERT model.
 Named Entity Recognition (NER): Identifies key entities such as order IDs using a custom-trained NER model.
 Dynamic Dialogue Generation: Uses a fine-tuned DialoGPT model for generating context-aware responses.
 Seamless API Integration: Built with a Flask backend and a user-friendly frontend interface.
+
+
 Dataset
 The chatbot was trained using a diverse, augmented dataset containing over 3,700 examples of customer queries and responses.
 
@@ -36,6 +44,7 @@ Intent Recognition Model: Built using BERT for accurate intent classification.
 NER Model: Custom-trained model for extracting named entities from user input.
 Dialogue Generation Model: Fine-tuned DialoGPT model for generating dynamic responses.
 Note: Due to the large file size, the models/ folder could not be uploaded to the repository. You can train the models locally using the provided training scripts or load pretrained models using the scripts in the src/ directory.
+
 
 Installation
 To run this project locally, follow these steps:
